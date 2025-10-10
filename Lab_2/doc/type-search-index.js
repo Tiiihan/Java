@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305.Tykhovska.Lab2","l":"ClimberEquipment"},{"p":"KI305.Tykhovska.Lab2","l":"ClimbingRope"},{"p":"KI305.Tykhovska.Lab2","l":"Helmet"},{"p":"KI305.Tykhovska.Lab2","l":"InsuranceSystem"},{"p":"KI305.Tykhovska.Lab2","l":"Main"},{"p":"KI305.Tykhovska.Lab2","l":"RopeType"}];updateSearchResults();
