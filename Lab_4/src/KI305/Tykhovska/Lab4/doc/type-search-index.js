@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305.Tykhovska.Lab4","l":"Calculation"},{"p":"KI305.Tykhovska.Lab4","l":"Main"}];updateSearchResults();
