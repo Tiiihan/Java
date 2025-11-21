@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305.Tykhovska.Lab5","l":"BinaryIO"},{"p":"KI305.Tykhovska.Lab5","l":"Calculation"},{"p":"KI305.Tykhovska.Lab5","l":"FileIO"},{"p":"KI305.Tykhovska.Lab5","l":"Main"},{"p":"KI305.Tykhovska.Lab5","l":"TxtIO"}];updateSearchResults();
