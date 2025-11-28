@@ -168,3 +168,50 @@
 2025-10-09T20:37:57.266959 - Invoke TotalWeight method
 2025-10-09T20:37:57.266959 - Invoke TotalWeight method
 2025-10-09T20:37:57.268140800 - Invoke TotalWeight method
+2025-10-10T09:57:41.791660400 - Initialise objects in constructor 1
+2025-10-10T09:57:41.803872700 - Initialise objects in constructor 2
+2025-10-10T09:57:41.803872700 - Initialise objects in constructor 2
+2025-10-10T09:57:41.804893100 - Initialise objects in constructor 3
+2025-10-10T09:57:41.804893100 - Initialise objects in constructor 2
+2025-10-10T09:57:41.805894700 - Initialise objects in constructor 4
+2025-10-10T09:57:41.829132700 - Invoke ShowInfo method
+2025-10-10T09:57:41.830129300 - Invoke ShowInfo method
+2025-10-10T09:57:41.831133900 - Invoke ShowInfo method
+2025-10-10T09:57:41.832132900 - Invoke ShowInfo method
+2025-10-10T09:57:41.832132900 - Invoke IsFullEquipped method
+2025-10-10T09:57:41.835136400 - Invoke IsFullEquipped method
+2025-10-10T09:57:41.836135200 - Invoke CompareTotalWeight method
+2025-10-10T09:57:41.837133100 - Invoke TotalWeight method
+2025-10-10T09:57:41.837133100 - Invoke TotalWeight method
+2025-10-10T09:57:41.837133100 - Invoke TotalWeight method
+2025-10-10T09:57:41.838132700 - Invoke TotalWeight method
+2025-10-10T09:57:41.838132700 - Invoke CompareTotalWeight method
+2025-10-10T09:57:41.839131500 - Invoke TotalWeight method
+2025-10-10T09:57:41.839641400 - Invoke TotalWeight method
+2025-10-10T09:57:41.839641400 - Invoke TotalWeight method
+2025-10-10T09:57:41.839641400 - Invoke TotalWeight method
+2025-10-10T09:57:41.840656800 - Invoke TotalWeight method
+2025-10-10T09:57:41.841655 - Invoke TotalWeight method
+2025-10-10T09:58:35.110439700 - Initialise objects in constructor 1
+2025-10-10T09:58:35.115439 - Initialise objects in constructor 2
+2025-10-10T09:58:35.115439 - Initialise objects in constructor 2
+2025-10-10T09:58:35.115439 - Initialise objects in constructor 3
+2025-10-10T09:58:35.115439 - Initialise objects in constructor 2
+2025-10-10T09:58:35.115439 - Initialise objects in constructor 4
+2025-10-10T09:58:35.126440700 - Invoke ShowInfo method
+2025-10-10T09:58:35.127441300 - Invoke ShowInfo method
+2025-10-10T09:58:35.127441300 - Invoke ShowInfo method
+2025-10-10T09:58:35.127441300 - Invoke IsFullEquipped method
+2025-10-10T09:58:35.128441800 - Invoke IsFullEquipped method
+2025-10-10T09:58:35.129441300 - Invoke CompareTotalWeight method
+2025-10-10T09:58:35.129441300 - Invoke TotalWeight method
+2025-10-10T09:58:35.129441300 - Invoke TotalWeight method
+2025-10-10T09:58:35.129441300 - Invoke TotalWeight method
+2025-10-10T09:58:35.129441300 - Invoke TotalWeight method
+2025-10-10T09:58:35.129441300 - Invoke CompareTotalWeight method
+2025-10-10T09:58:35.129441300 - Invoke TotalWeight method
+2025-10-10T09:58:35.129441300 - Invoke TotalWeight method
+2025-10-10T09:58:35.129441300 - Invoke TotalWeight method
+2025-10-10T09:58:35.129441300 - Invoke TotalWeight method
+2025-10-10T09:58:35.130907900 - Invoke TotalWeight method
+2025-10-10T09:58:35.130907900 - Invoke TotalWeight method
