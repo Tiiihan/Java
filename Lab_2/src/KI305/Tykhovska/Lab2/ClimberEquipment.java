@@ -32,6 +32,8 @@ public class ClimberEquipment {
         }
     }
 
+    public ClimberEquipment(){}
+
     /**
      * Повний конструктор, який створює всі складові спорядження.
      *
